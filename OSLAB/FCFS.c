@@ -5,10 +5,20 @@
    Date of Execution: 6-09-2022
 */
 #include<stdio.h>
+<<<<<<< HEAD
 void main()
 {
 int bt[20], wt[20], tat[20], i, n;
 float wtavg, tatavg;
+=======
+#include<stdlib.h>
+#include<conio.h>
+main()
+{
+int bt[20], wt[20], tat[20], i, n;
+float wtavg, tatavg;
+system("cls");
+>>>>>>> refs/remotes/origin/master
 printf("\nEnter the number of processes -- ");
 scanf("%d", &n);
 for(i=0;i<n;i++)
