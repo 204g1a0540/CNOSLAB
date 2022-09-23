@@ -1,0 +1,22 @@
+<pre>Enter the no of processes -- 5
+
+Enter Burst Time for process 1 -- 2
+
+Enter Burst Time for process 2 -- 6
+
+Enter Burst Time for process 3 -- 8
+
+Enter Burst Time for process 4 -- 3
+
+Enter Burst Time for process 5 -- 7
+
+Enter the size of time slice -- 4
+
+The Average Turnaround time is -- 16.600000
+The Average Waiting time is -- 11.400000 
+	PROCESS	 BURST TIME 	 WAITING TIME	TURNAROUND TIME
+	1 	 2 		 0 		 2 
+	2 	 6 		 13 		 19 
+	3 	 8 		 15 		 23 
+	4 	 3 		 10 		 13 
+	5 	 7 		 19 		 26 </pre>
