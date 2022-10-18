@@ -1,0 +1,27 @@
+<pre>Enter the total memory available (in Bytes)-- 400
+
+Enter memory required for process 1 (in Bytes) -- 200
+
+Memory is allocated for Process 1 
+Do you want to continue(y/n) -- y
+
+Enter memory required for process 2 (in Bytes) -- 20
+
+Memory is allocated for Process 2 
+Do you want to continue(y/n) -- y
+
+Enter memory required for process 3 (in Bytes) -- 150
+
+Memory is allocated for Process 3 
+Do you want to continue(y/n) -- n
+
+
+Total Memory Available -- 400
+
+	PROCESS		 MEMORY ALLOCATED 
+ 	1		200
+ 	2		20
+ 	3		150
+
+Total Memory Allocated is 370
+Total External Fragmentation is 30</pre>
