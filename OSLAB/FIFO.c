@@ -6,14 +6,12 @@
    Date of Execution: 1-11-2022
 */
 #include<stdio.h>
-#include<conio.h> int fr[3];
+int fr[3];
 void main()
 {
 void display();
 int i,j,page[12]={2,3,2,1,5,2,4,5,3,2,5,2};
-int
-flag1=0,flag2=0,pf=0,frsize=3,top=0;
-clrscr();
+int flag1=0,flag2=0,pf=0,frsize=3,top=0;
 for(i=0;i<3;i++)
 {
 fr[i]=-1;
@@ -48,7 +46,6 @@ top=0;
 display();
 }
 printf("Number of page faults : %d ",pf+frsize);
-getch();
 }
 void display()
 {
