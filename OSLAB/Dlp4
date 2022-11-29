@@ -1,0 +1,13 @@
+<pre>Enter no of jobs: 5
+Enter name and time: N 1
+Enter name and time: A 2
+Enter name and time: N 3
+Enter name and time: D 4
+Enter name and time: U 5
+Enter the available resources:30
+NANDUSafe sequence is:N 1
+A 2
+N 3
+D 4
+U 5
+</pre>

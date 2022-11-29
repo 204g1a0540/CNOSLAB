@@ -1,0 +1,11 @@
+<pre>Enter no of jobs: 4
+Enter name and time: I 1
+Enter name and time: N 2
+Enter name and time: D 3
+Enter name and time: u 4
+Enter the available resources:15
+INDuSafe sequence is:I 1
+N 2
+D 3
+u 4
+</pre>
